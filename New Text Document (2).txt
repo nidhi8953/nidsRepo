@@ -1,0 +1,18 @@
+REPLY: HV Interconnection Diagram already forwarded to you on 09.04.18 for review (Refer enclosed email dtd 09.04.18). Also I would like to bring in your notice that Interconnection diagram activity was started on 15.03.2018. The delay in start of the Interconnection diagram is due to the priority of Vendor documents review of different documents which were at their peak from Nov,17- March, 18. Also find below the dates of various documents reviewed by me with their starting and finishing (Code-1) approval date:
+
+    a) 22 kV Isolating breaker panel (MR-0020 ordered on M/s ABB)- 07/09/2017- 05/02/2018- No. Of Transmittals- 20 nos. 
+    b) 6.6 kV HV Switchboard and HV Bus Ducts (MR-0010 ordered on M/s ABB) - 01/09/2017- 22/03/2018.- No. Of Transmittals- 20 nos.
+    c) 415 V MV Switchboard, bus ducts and Substation automation system (MR-0040 ordered on M/s Schneider)- Code-1 by Nov,17- No. Of Transmittals- 20 nos.
+    d) Hazardous equipment MR (MR-0510 ordered on M/s Flexpro , M/s FCG Flameproof & M/s FCG power Ltd.)- 22/01/2018- 15/04/2018- No. Of Transmittals- 20 nos.
+    e) Fire Alarm System- (MR-0480 ordered on M/s New Fire Engineers)- 20/11/2017- 22/03/2018- No. Of Transmittals- 20 nos.
+    f) Plant Communication system (MR-0470 ordered on M/s Neuman)- 07/02/2018- 13/04/2018- No. Of Transmittals- 20 nos.
+    g) MOV Actuator (MR-3211 & 3111 ordered on M/s Rotork (M/s Oswal, Niton, Steel)-07/02/2018- 13/04/2018- No. Of Transmittals- 20 nos.
+    h) 110 V UPS System (MR-0600 ordered on M/s Gutor)- 05/02/2018- 20/04/2018- No. Of Transmittals- 20 nos.
+    i) 240V UPS System (MR-0601 ordered on M/s Hitachi Hirel) - 17/01/2017-05/02/2018- No. Of Transmittals- 20 nos.
+
+Total nos. of Transmittals- 200 nos. 
+
+As you are ware that all these equipments were handled by me and these all are reviewed and closed in Code-1/R as applicable. And majority of the these documents came in DEC-FEB period. Hence due to this, I was not able to prepare Interconnection diagram and started the same from 15/03/2018. As you know that preparation the interconnection diagram requires a dedicated effort, but in the meantime you change the priorities no. of time which resulted in the delay. After submitting HV interconnection to you on 09/04/2018, I have prepared MV Interconnection which is approx. 50-60% complete. But during that time, you only told me to stop that work and start working for MREP (A945) job and the activities given to me are as below which I have already completed:
+    a) Eletrical Heater Input
+    b) Pre bid queries of 3.3 KV GIS- Already gave you the replies on next day of M/s Siemens and M/s ABB.
+    c) Offer evalaution of 
